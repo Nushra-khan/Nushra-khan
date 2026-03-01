@@ -63,12 +63,7 @@ Mental health support meets academic guidance.
 • Built using Python, NLP & ML
 ```
 
-🔗 Replace with your repo link:
-```
-https://github.com/YOUR_GITHUB_USERNAME/BEACON
-```
 
----
 
 ## ✦ other projects
 
@@ -79,15 +74,6 @@ https://github.com/YOUR_GITHUB_USERNAME/BEACON
 
 ---
 
-## ✦ github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=fdf0f8&title_color=c9a7eb&icon_color=f4a7c3&text_color=7c5cbf&border_color=e8d5f5&border_radius=16" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=fdf0f8&title_color=c9a7eb&text_color=7c5cbf&border_color=e8d5f5&border_radius=16" height="165"/>
-
-</div>
 
 ---
 

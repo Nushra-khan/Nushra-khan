@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making+%E2%9C%A8;Mental+Health+Tech+Advocate+%F0%9F%A9%BA;Turning+data+into+decisions+quietly.;Building+BEACON+%E2%80%94+one+prompt+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making+%E2%9C%A8;Mental+Health+Tech+Advocate+%F0%9F%A9%BA;Turning+data+into+decisions+quietly.;)](https://git.io/typing-svg)
 
 </div>
 

@@ -139,9 +139,9 @@ class [Nushra Khan]:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=soft-green&background=fdf0f8&stroke=e8d5f5&ring=c9a7eb&fire=f4a7c3&currStreakNum=7c5cbf&sideNums=7c5cbf&currStreakLabel=c9a7eb&sideLabels=c9a7eb&dates=b0a0cc&border_radius=16" />
 
-</div>
+
+
 
 <br/>
 
@@ -198,7 +198,7 @@ class [Nushra Khan]:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-d4c1f9?style=for-the-badge&logo=linkedin&logoColor=5c4a8a)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-c5d8f7?style=for-the-badge&logo=github&logoColor=3a6fa8)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-f2c6de?style=for-the-badge&logo=gmail&logoColor=7c5cbf)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fde8f5?style=for-the-badge&logo=vercel&logoColor=7c5cbf)](https://yourportfolio.com)
+
 
 <br/>
 

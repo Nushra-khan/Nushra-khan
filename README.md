@@ -1,3 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0f2e"/>
+      <stop offset="40%" style="stop-color:#2d1b4e"/>
+      <stop offset="100%" style="stop-color:#1e1535"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f4a7c3"/>
+      <stop offset="50%" style="stop-color:#c9a7eb"/>
+      <stop offset="100%" style="stop-color:#a0c4ff"/>
+    </linearGradient>
+
+    <!-- Flower symbol reusable -->
+    <g id="fl">
+      <!-- 5 petals -->
+      <ellipse cx="0" cy="-4" rx="2.2" ry="4" fill="currentColor" opacity="0.9"/>
+      <ellipse cx="0" cy="-4" rx="2.2" ry="4" fill="currentColor" opacity="0.9" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-4" rx="2.2" ry="4" fill="currentColor" opacity="0.9" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-4" rx="2.2" ry="4" fill="currentColor" opacity="0.9" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-4" rx="2.2" ry="4" fill="currentColor" opacity="0.9" transform="rotate(288)"/>
+      <circle cx="0" cy="0" r="2" fill="#fff9" />
+    </g>
+
+    <!-- tiny flower -->
+    <g id="fls">
+      <ellipse cx="0" cy="-2.5" rx="1.4" ry="2.5" fill="currentColor" opacity="0.85"/>
+      <ellipse cx="0" cy="-2.5" rx="1.4" ry="2.5" fill="currentColor" opacity="0.85" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-2.5" rx="1.4" ry="2.5" fill="currentColor" opacity="0.85" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-2.5" rx="1.4" ry="2.5" fill="currentColor" opacity="0.85" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-2.5" rx="1.4" ry="2.5" fill="currentColor" opacity="0.85" transform="rotate(288)"/>
+      <circle cx="0" cy="0" r="1.3" fill="#fff8" />
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Subtle starry dots -->
+  <circle cx="80" cy="30" r="0.8" fill="#c9a7eb" opacity="0.5"/>
+  <circle cx="200" cy="15" r="0.6" fill="#f4a7c3" opacity="0.4"/>
+  <circle cx="450" cy="10" r="0.9" fill="#a0c4ff" opacity="0.5"/>
+  <circle cx="650" cy="25" r="0.7" fill="#c9a7eb" opacity="0.4"/>
+  <circle cx="820" cy="18" r="0.8" fill="#f4a7c3" opacity="0.5"/>
+  <circle cx="130" cy="170" r="0.7" fill="#a0c4ff" opacity="0.4"/>
+  <circle cx="760" cy="180" r="0.6" fill="#c9a7eb" opacity="0.3"/>
+
+  <!-- ======= FALLING FLOWERS ======= -->
+
+  <!-- Row 1: scattered across top, staggered delays -->
+  <g style="color:#f4a7c3"><use href="#fl" transform="translate(40,0) scale(1.1)"><animateTransform attributeName="transform" type="translate" values="40,-10; 55,210" dur="6s" repeatCount="indefinite" begin="0s"/><animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite" begin="0s"/></use></g>
+
+  <g style="color:#c9a7eb"><use href="#fls" transform="translate(90,0)"><animateTransform attributeName="transform" type="translate" values="90,-8; 80,210" dur="5s" repeatCount="indefinite" begin="1.2s"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite" begin="1.2s"/></use></g>
+
+  <g style="color:#f7cfe8"><use href="#fl" transform="translate(160,0)"><animateTransform attributeName="transform" type="translate" values="160,-10; 175,210" dur="7s" repeatCount="indefinite" begin="0.5s"/><animate attributeName="opacity" values="0;1;1;0" dur="7s" repeatCount="indefinite" begin="0.5s"/></use></g>
+
+  <g style="color:#a0c4ff"><use href="#fls" transform="translate(240,0)"><animateTransform attributeName="transform" type="translate" values="240,-8; 230,210" dur="4.5s" repeatCount="indefinite" begin="2s"/><animate attributeName="opacity" values="0;1;1;0" dur="4.5s" repeatCount="indefinite" begin="2s"/></use></g>
+
+  <g style="color:#e8b4d8"><use href="#fl" transform="translate(310,0)"><animateTransform attributeName="transform" type="translate" values="310,-10; 320,210" dur="6.5s" repeatCount="indefinite" begin="0.8s"/><animate attributeName="opacity" values="0;1;1;0" dur="6.5s" repeatCount="indefinite" begin="0.8s"/></use></g>
+
+  <g style="color:#c9a7eb"><use href="#fl" transform="translate(390,0)"><animateTransform attributeName="transform" type="translate" values="390,-12; 378,210" dur="5.8s" repeatCount="indefinite" begin="1.8s"/><animate attributeName="opacity" values="0;1;1;0" dur="5.8s" repeatCount="indefinite" begin="1.8s"/></use></g>
+
+  <g style="color:#f4a7c3"><use href="#fls" transform="translate(460,0)"><animateTransform attributeName="transform" type="translate" values="460,-8; 472,210" dur="5s" repeatCount="indefinite" begin="3s"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite" begin="3s"/></use></g>
+
+  <g style="color:#b8d4ff"><use href="#fl" transform="translate(530,0)"><animateTransform attributeName="transform" type="translate" values="530,-10; 518,210" dur="6.2s" repeatCount="indefinite" begin="0.3s"/><animate attributeName="opacity" values="0;1;1;0" dur="6.2s" repeatCount="indefinite" begin="0.3s"/></use></g>
+
+  <g style="color:#f4a7c3"><use href="#fl" transform="translate(600,0)"><animateTransform attributeName="transform" type="translate" values="600,-10; 612,210" dur="7.2s" repeatCount="indefinite" begin="1s"/><animate attributeName="opacity" values="0;1;1;0" dur="7.2s" repeatCount="indefinite" begin="1s"/></use></g>
+
+  <g style="color:#d4b3f0"><use href="#fls" transform="translate(670,0)"><animateTransform attributeName="transform" type="translate" values="670,-8; 660,210" dur="4.8s" repeatCount="indefinite" begin="2.5s"/><animate attributeName="opacity" values="0;1;1;0" dur="4.8s" repeatCount="indefinite" begin="2.5s"/></use></g>
+
+  <g style="color:#f9d5e8"><use href="#fl" transform="translate(740,0)"><animateTransform attributeName="transform" type="translate" values="740,-10; 753,210" dur="6s" repeatCount="indefinite" begin="0.7s"/><animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite" begin="0.7s"/></use></g>
+
+  <g style="color:#a0c4ff"><use href="#fls" transform="translate(810,0)"><animateTransform attributeName="transform" type="translate" values="810,-8; 800,210" dur="5.5s" repeatCount="indefinite" begin="1.5s"/><animate attributeName="opacity" values="0;1;1;0" dur="5.5s" repeatCount="indefinite" begin="1.5s"/></use></g>
+
+  <g style="color:#e8c4f0"><use href="#fl" transform="translate(870,0)"><animateTransform attributeName="transform" type="translate" values="870,-10; 858,210" dur="6.8s" repeatCount="indefinite" begin="2.2s"/><animate attributeName="opacity" values="0;1;1;0" dur="6.8s" repeatCount="indefinite" begin="2.2s"/></use></g>
+
+  <!-- Extra mid-drift flowers for density -->
+  <g style="color:#c9a7eb"><use href="#fls"><animateTransform attributeName="transform" type="translate" values="115,-8; 125,210" dur="5.3s" repeatCount="indefinite" begin="3.5s"/><animate attributeName="opacity" values="0;1;1;0" dur="5.3s" repeatCount="indefinite" begin="3.5s"/></use></g>
+
+  <g style="color:#f4a7c3"><use href="#fls"><animateTransform attributeName="transform" type="translate" values="280,-8; 268,210" dur="4.7s" repeatCount="indefinite" begin="4s"/><animate attributeName="opacity" values="0;1;1;0" dur="4.7s" repeatCount="indefinite" begin="4s"/></use></g>
+
+  <g style="color:#b8d4ff"><use href="#fls"><animateTransform attributeName="transform" type="translate" values="490,-8; 502,210" dur="5.1s" repeatCount="indefinite" begin="0.1s"/><animate attributeName="opacity" values="0;1;1;0" dur="5.1s" repeatCount="indefinite" begin="0.1s"/></use></g>
+
+  <g style="color:#e8b4d8"><use href="#fls"><animateTransform attributeName="transform" type="translate" values="700,-8; 690,210" dur="6.3s" repeatCount="indefinite" begin="1.3s"/><animate attributeName="opacity" values="0;1;1;0" dur="6.3s" repeatCount="indefinite" begin="1.3s"/></use></g>
+
+  <!-- ======= TEXT ======= -->
+
+  <!-- Name -->
+  <text x="450" y="95" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="42" font-style="italic" font-weight="bold"
+    fill="url(#textGrad)" letter-spacing="2">
+    hey, I'm [Nushra] ✦
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="128" text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="13" fill="#c9a7eb" letter-spacing="4" opacity="0.85">
+    building things that matter · one model at a time
+  </text>
+
+  <!-- Soft glow pulse under text -->
+  <ellipse cx="450" cy="108" rx="280" ry="35" fill="#c9a7eb" opacity="0">
+    <animate attributeName="opacity" values="0;0.04;0" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Bottom fade -->
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="60%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#1a0f2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#fade)" opacity="0.5"/>
+</svg>
+
 <div align="center">
 
 <!-- ╔══════════════════════════════════════════╗ -->

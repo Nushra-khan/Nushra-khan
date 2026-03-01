@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=4,8,14,20&height=200&section=header&text=hey%2C%20I%27m%20Nushra%20Khan%20%E2%9C%A6&fontSize=42&fontAlignY=45&fontColor=e6fff2&desc=building%20things%20that%20matter%20%C2%B7%20one%20model%20at%20a%20time&descAlignY=68&descSize=15&descColor=7ce3a1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=4,8,14,20&height=200&section=header&text=hey%2C%20I%27m%20Nushra%20%20%E2%9C%A6&fontSize=42&fontAlignY=45&fontColor=e6fff2&desc=building%20things%20that%20matter%20%C2%B7%20one%20model%20at%20a%20time&descAlignY=68&descSize=15&descColor=7ce3a1&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making+%E2%9C%A8;Turning+data+into+decisions+quietly.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=Turning+data+into+Intelligence.;)](https://git.io/typing-svg)
 
 </div>
 

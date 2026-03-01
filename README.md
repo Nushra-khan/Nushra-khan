@@ -16,10 +16,10 @@
 class NushraKhan:
     def __init__(self):
         self.role = "Computer Science Engineering Student"
-        self.focus = ["Artificial Intelligence", "Machine Learning", "Mental Health Tech"]
-        self.current_project = "BEACON — AI-powered student wellness chatbot"
-        self.learning = ["MLOps", "LLMs", "Advanced Prompt Engineering"]
-        self.languages = ["Python", "Java", "C++"]
+        self.focus = ["Artificial Intelligence", "Machine Learning", "Health Tech"]
+        self.current_project = "Building RAG based Systems"
+        self.learning = ["MLOps", "LLMs", "Agentic AI","RAGs"]
+        self.languages = ["Python", "Java", "C"]
 
     def mission(self):
         return "Building technology that cares about people first."
@@ -50,29 +50,9 @@ class NushraKhan:
 
 ---
 
-## ✦ flagship project
-
-### 🤍 BEACON — AI-Powered Student Wellness Chatbot
-
-```
-Mental health support meets academic guidance.
-
-• PHQ-9 based adaptive screening
-• Personalized empathetic chatbot
-• Academic + emotional support integration
-• Built using Python, NLP & ML
-```
 
 
 
-## ✦ other projects
-
-| Project | Description | Tech |
-|----------|------------|------|
-| 🚕 Taxi Demand Predictor | ML model predicting rush-hour driver demand | Python, Scikit-Learn |
-| 💬 PHQ-9 Chatbot | Adaptive chatbot for mental health screening | Python, NLP |
-
----
 
 
 ---
@@ -97,8 +77,8 @@ Mental health support meets academic guidance.
 
 Replace links below with your actual details:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-d4c1f9?style=for-the-badge&logo=linkedin&logoColor=5c4a8a)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-f2c6de?style=for-the-badge&logo=gmail&logoColor=7c5cbf)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-d4c1f9?style=for-the-badge&logo=linkedin&logoColor=5c4a8a)](https://linkedin.com/in/www.linkedin.com/in/nushra-khan-1994022b8)
+[![Email](https://img.shields.io/badge/Email-f2c6de?style=for-the-badge&logo=gmail&logoColor=7c5cbf)](mailto:nushrakhan312@gmail.com)
 
 ---
 

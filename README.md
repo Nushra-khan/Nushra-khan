@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✦ BANNER ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=hey%2C%20I%27m%20[YourName]%20%E2%9C%A6&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=building%20things%20that%20matter%20%E2%80%A7%20one%20model%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=hey%2C%20I%27m%20[Nushra Khan]%20%E2%9C%A6&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=building%20things%20that%20matter%20%E2%80%A7%20one%20model%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 

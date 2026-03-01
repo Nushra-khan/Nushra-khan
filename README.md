@@ -51,12 +51,6 @@ class NushraKhan:
 ---
 
 
-
-
-
-
----
-
 ## ✦ fun facts
 
 - I debug by explaining the problem to my coffee first ☕  
@@ -75,7 +69,7 @@ class NushraKhan:
 
 ## ✦ connect with me
 
-Replace links below with your actual details:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-d4c1f9?style=for-the-badge&logo=linkedin&logoColor=5c4a8a)](https://linkedin.com/in/www.linkedin.com/in/nushra-khan-1994022b8)
 [![Email](https://img.shields.io/badge/Email-f2c6de?style=for-the-badge&logo=gmail&logoColor=7c5cbf)](mailto:nushrakhan312@gmail.com)

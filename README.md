@@ -29,7 +29,7 @@
 ## `✦ about me`
 
 ```python
-class [YourName]:
+class [Nushra Khan]:
     def __init__(self):
         self.role        = "CS Engineering Student"
         self.focus       = ["AI", "ML", "Mental Health Tech"]

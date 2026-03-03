@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=Turning+data+into+Intelligence.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=Converting+data+into+Intelligence;)](https://git.io/typing-svg)
 
 </div>
 

@@ -34,7 +34,7 @@ class NushraKhan:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-f2c6de?style=for-the-badge&logo=python&logoColor=7c5cbf)
 ![Java](https://img.shields.io/badge/Java-d4c1f9?style=for-the-badge&logo=openjdk&logoColor=5c4a8a)
-![C++](https://img.shields.io/badge/C++-c5d8f7?style=for-the-badge&logo=cplusplus&logoColor=3a6fa8)
+
 
 ### AI / ML
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-d4c1f9?style=for-the-badge&logo=scikit-learn&logoColor=5c4a8a)

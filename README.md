@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=789B7F&amp;height=210&amp;section=header&amp;text=hey%2C%20i%27m%20Nushra%20%E2%9C%A6&amp;fontSize=44&amp;fontAlignY=43&amp;fontColor=F3EEDC&amp;desc=computer%20science%20student%20%E2%80%A2%20AI%20builder%20%E2%80%A2%;descColor=111613&amp;animation=fadeIn" width="100%" alt="Hey, I'm Nushra" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=789B7F&amp;height=210&amp;section=header&amp;text=hey%2C%20i%27m%20Nushra%20%E2%9C%A6&amp;fontSize=44&amp;fontAlignY=50&amp;fontColor=F3EEDC&amp;animation=fadeIn" width="100%" alt="Hey, I'm Nushra" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=21&duration=2800&pause=900&color=D98D7C&center=true&vCenter=true&width=680&lines=converting+data+into+intelligence+%E2%9C%A6;teaching+machines+to+care+a+little+more;currently+grazing+in+the+fields+of+RAG+%F0%9F%90%91)](https://git.io/typing-svg)
 

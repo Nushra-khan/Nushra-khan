@@ -31,11 +31,11 @@ class NushraKhan:
 ### ✦ current quest log
 
 | status | adventure |
-|:---:|:---|
-| 🧠 | Turning scattered knowledge into useful **RAG systems** |
-| 🌱 | Growing through **MLOps, LLMs, and agentic AI** |
-| 🫀 | Exploring where **AI meets human-centered health tech** |
-| 🔍 | Looking for **internships, research, and collaborations** |
+|:---|:---|
+| `BUILDING` | Turning scattered knowledge into useful **RAG systems** |
+| `LEARNING` | Growing through **MLOps, LLMs, and agentic AI** |
+| `EXPLORING` | Discovering where **AI meets human-centered health tech** |
+| `OPEN TO` | **Internships, research, and collaborations** |
 
 ---
 

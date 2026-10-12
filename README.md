@@ -1,83 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=4,8,14,20&height=200&section=header&text=hey%2C%20I%27m%20Nushra%20%20%E2%9C%A6&fontSize=42&fontAlignY=45&fontColor=e6fff2&desc=building%20things%20that%20matter%20%C2%B7%20&descAlignY=68&descSize=15&descColor=7ce3a1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=789B7F&amp;height=210&amp;section=header&amp;text=hey%2C%20i%27m%20Nushra%20%E2%9C%A6&amp;fontSize=44&amp;fontAlignY=43&amp;fontColor=F3EEDC&amp;desc=computer%20science%20student%20%E2%80%A2%20AI%20builder%20%E2%80%A2%20human-first%20thinker&amp;descAlignY=65&amp;descSize=15&amp;descColor=111613&amp;animation=fadeIn" width="100%" alt="Hey, I'm Nushra" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=21&duration=2800&pause=900&color=D98D7C&center=true&vCenter=true&width=680&lines=converting+data+into+intelligence+%E2%9C%A6;teaching+machines+to+care+a+little+more;currently+grazing+in+the+fields+of+RAG+%F0%9F%90%91)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=Converting+data+into+Intelligence;)](https://git.io/typing-svg)
+<sub>small commits · big curiosity · technology with a pulse</sub>
 
 </div>
 
 ---
 
-## ✦ about me
+### `> whoami`
 
 ```python
 class NushraKhan:
-    def __init__(self):
-        self.role = "Computer Science Engineering Student"
-        self.focus = ["Artificial Intelligence", "Machine Learning", "Health Tech"]
-        self.current_project = "Building RAG based Systems"
-        self.learning = ["MLOps", "LLMs", "Agentic AI","RAGs"]
-        self.languages = ["Python", "Java", "C"]
+    role = "Computer Science Engineering Student"
+    compass = ["Artificial Intelligence", "Machine Learning", "Health Tech"]
+    current_quest = "Building RAG-based systems"
+    learning_next = ["MLOps", "LLMs", "Agentic AI", "RAG"]
+    speaks = ["Python", "Java", "C"]
 
     def mission(self):
-        return "Building technology that cares about people first."
+        return "Build technology that cares about people first."
 ```
 
-> I believe the most powerful code is the kind that quietly changes someone's day for the better.
+> The most powerful code is the kind that quietly changes someone's day for the better.
 
 ---
 
-## ✦ tech stack
+### ✦ current quest log
 
-### Languages
-![Python](https://img.shields.io/badge/Python-f2c6de?style=for-the-badge&logo=python&logoColor=7c5cbf)
-![Java](https://img.shields.io/badge/Java-d4c1f9?style=for-the-badge&logo=openjdk&logoColor=5c4a8a)
-
-
-### AI / ML
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-d4c1f9?style=for-the-badge&logo=scikit-learn&logoColor=5c4a8a)
-![Pandas](https://img.shields.io/badge/Pandas-c5d8f7?style=for-the-badge&logo=pandas&logoColor=3a6fa8)
-![NumPy](https://img.shields.io/badge/NumPy-fde8f5?style=for-the-badge&logo=numpy&logoColor=7c5cbf)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f2c6de?style=for-the-badge&logo=tensorflow&logoColor=7c5cbf)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-d4c1f9?style=for-the-badge&logo=git&logoColor=5c4a8a)
-![GitHub](https://img.shields.io/badge/GitHub-c5d8f7?style=for-the-badge&logo=github&logoColor=3a6fa8)
-![Jupyter](https://img.shields.io/badge/Jupyter-fde8f5?style=for-the-badge&logo=jupyter&logoColor=7c5cbf)
-![VS Code](https://img.shields.io/badge/VSCode-f2c6de?style=for-the-badge&logo=visualstudiocode&logoColor=5c4a8a)
+| status | adventure |
+|:---:|:---|
+| 🧠 | Turning scattered knowledge into useful **RAG systems** |
+| 🌱 | Growing through **MLOps, LLMs, and agentic AI** |
+| 🫀 | Exploring where **AI meets human-centered health tech** |
+| 🔍 | Looking for **internships, research, and collaborations** |
 
 ---
 
+### ✦ things in my toolbox
 
-## ✦ fun facts
+<div align="center">
 
-- I debug by explaining the problem to my coffee first ☕  
-- My first ML model had 94% accuracy and 0% real-world sense  
-- I believe AI should be empathetic, not just efficient  
-- I secretly enjoy solving DSA puzzles  
+**languages**
+
+![Python](https://img.shields.io/badge/Python-789B7F?style=for-the-badge&logo=python&logoColor=F3EEDC)
+![Java](https://img.shields.io/badge/Java-D98D7C?style=for-the-badge&logo=openjdk&logoColor=111613)
+![C](https://img.shields.io/badge/C-F3EEDC?style=for-the-badge&logo=c&logoColor=111613)
+
+**AI · ML · data**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-789B7F?style=for-the-badge&logo=scikitlearn&logoColor=F3EEDC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D98D7C?style=for-the-badge&logo=tensorflow&logoColor=111613)
+![Pandas](https://img.shields.io/badge/Pandas-111613?style=for-the-badge&logo=pandas&logoColor=F3EEDC)
+![NumPy](https://img.shields.io/badge/NumPy-F3EEDC?style=for-the-badge&logo=numpy&logoColor=111613)
+
+**tools I reach for**
+
+![Git](https://img.shields.io/badge/Git-D98D7C?style=for-the-badge&logo=git&logoColor=111613)
+![GitHub](https://img.shields.io/badge/GitHub-111613?style=for-the-badge&logo=github&logoColor=F3EEDC)
+![Jupyter](https://img.shields.io/badge/Jupyter-F3EEDC?style=for-the-badge&logo=jupyter&logoColor=111613)
+![VS Code](https://img.shields.io/badge/VS_Code-789B7F?style=for-the-badge&logo=visualstudiocode&logoColor=F3EEDC)
+
+</div>
 
 ---
 
-## ✦ a thought
+<details>
+<summary><b>☕ open while the code is compiling...</b></summary>
+<br/>
 
-> “The world doesn’t need more cold, clever systems.  
-> It needs ones built with care.”
+- I debug by explaining the problem to my coffee first.
+- My first ML model had **94% accuracy** and **0% real-world sense**.
+- I believe AI should be empathetic, not just efficient.
+- I secretly enjoy solving DSA puzzles. (Maybe not so secretly now.)
+
+</details>
 
 ---
 
-## ✦ connect with me
+### ✦ a thought I keep nearby
 
+<div align="center">
 
+#### “The world doesn't need more cold, clever systems.<br/>It needs ones built with care.”
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-d4c1f9?style=for-the-badge&logo=linkedin&logoColor=5c4a8a)](https://linkedin.com/in/www.linkedin.com/in/nushra-khan-1994022b8)
-[![Email](https://img.shields.io/badge/Email-f2c6de?style=for-the-badge&logo=gmail&logoColor=7c5cbf)](mailto:nushrakhan312@gmail.com)
+</div>
 
 ---
 
 <div align="center">
 
-✨ open to internships · research · collaborations ✨
+### let's make something thoughtful
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-789B7F?style=for-the-badge&logo=linkedin&logoColor=F3EEDC)](https://www.linkedin.com/in/nushra-khan-1994022b8)
+[![Email](https://img.shields.io/badge/Say_Hello-D98D7C?style=for-the-badge&logo=gmail&logoColor=111613)](mailto:nushrakhan312@gmail.com)
+
+<br/>
+
+🐑 **open to internships · research · collaborations**
+
+<sub>thanks for wandering by — mind the bugs on your way out.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=789B7F&amp;height=100&amp;section=footer" width="100%" alt="Footer" />
 
 </div>

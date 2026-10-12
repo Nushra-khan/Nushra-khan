@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Little sheep meadow</title>
+  <desc id="desc">Two cream and charcoal sheep graze among sage grass and coral flowers.</desc>
+
+  <!-- soft ground -->
+  <path d="M0 182 C170 148 305 196 470 171 C645 144 785 193 960 166 C1050 152 1128 160 1200 177 L1200 230 L0 230 Z" fill="#789B7F" opacity=".22"/>
+  <path d="M0 202 C160 171 329 215 493 191 C690 163 833 211 1010 187 C1084 177 1146 182 1200 194" fill="none" stroke="#789B7F" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- left plants -->
+  <g fill="none" stroke="#789B7F" stroke-width="5" stroke-linecap="round">
+    <path d="M98 194 Q93 157 112 137 M102 170 Q84 159 77 145 M104 161 Q125 148 131 130"/>
+    <path d="M177 195 Q180 168 167 153 M178 179 Q194 168 201 151"/>
+    <path d="M1054 191 Q1052 154 1068 134 M1057 166 Q1038 153 1033 139 M1060 158 Q1081 145 1087 127"/>
+    <path d="M1128 195 Q1124 172 1137 157 M1127 180 Q1112 169 1108 156"/>
+  </g>
+  <g fill="#D98D7C">
+    <circle cx="76" cy="142" r="7"/><circle cx="132" cy="126" r="7"/>
+    <circle cx="202" cy="148" r="6"/><circle cx="1032" cy="136" r="7"/>
+    <circle cx="1089" cy="123" r="7"/><circle cx="1107" cy="153" r="6"/>
+  </g>
+
+  <!-- big grazing sheep -->
+  <g>
+    <ellipse cx="429" cy="139" rx="101" ry="58" fill="#F3EEDC" stroke="#111613" stroke-width="7"/>
+    <circle cx="354" cy="111" r="37" fill="#F3EEDC"/>
+    <circle cx="390" cy="98" r="38" fill="#F3EEDC"/>
+    <circle cx="437" cy="94" r="39" fill="#F3EEDC"/>
+    <circle cx="481" cy="104" r="38" fill="#F3EEDC"/>
+    <circle cx="510" cy="132" r="34" fill="#F3EEDC"/>
+    <path d="M344 155 Q326 176 319 198" fill="none" stroke="#111613" stroke-width="15" stroke-linecap="round"/>
+    <ellipse cx="308" cy="191" rx="31" ry="25" transform="rotate(-24 308 191)" fill="#111613"/>
+    <path d="M294 175 L278 161 M321 175 L331 156" fill="none" stroke="#111613" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="298" cy="185" r="4.5" fill="#F3EEDC"/>
+    <path d="M391 182 L388 207 M475 181 L479 207" stroke="#111613" stroke-width="13" stroke-linecap="round"/>
+  </g>
+
+  <!-- little grazing sheep -->
+  <g>
+    <ellipse cx="756" cy="154" rx="72" ry="43" fill="#F3EEDC" stroke="#111613" stroke-width="6"/>
+    <circle cx="704" cy="132" r="28" fill="#F3EEDC"/>
+    <circle cx="738" cy="120" r="29" fill="#F3EEDC"/>
+    <circle cx="773" cy="124" r="28" fill="#F3EEDC"/>
+    <circle cx="811" cy="143" r="27" fill="#F3EEDC"/>
+    <path d="M697 170 Q681 187 678 204" fill="none" stroke="#111613" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="667" cy="201" rx="25" ry="20" transform="rotate(-20 667 201)" fill="#111613"/>
+    <path d="M656 189 L644 177 M680 187 L689 174" fill="none" stroke="#111613" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="659" cy="197" r="3.5" fill="#F3EEDC"/>
+    <path d="M729 188 L727 211 M788 187 L791 211" stroke="#111613" stroke-width="11" stroke-linecap="round"/>
+  </g>
+
+  <!-- foreground grass -->
+  <g fill="none" stroke="#789B7F" stroke-width="5" stroke-linecap="round">
+    <path d="M270 215 l-9 -21 M271 215 l10 -25 M600 216 l-8 -25 M600 216 l12 -29 M874 215 l-8 -22 M875 215 l13 -26 M964 214 l-7 -20 M964 214 l11 -23"/>
+  </g>
+</svg>

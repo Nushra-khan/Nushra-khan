@@ -43,27 +43,74 @@ class NushraKhan:
 
 <div align="center">
 
-**languages**
+**languages · interfaces**
 
 ![Python](https://img.shields.io/badge/Python-789B7F?style=for-the-badge&logo=python&logoColor=F3EEDC)
-![Java](https://img.shields.io/badge/Java-D98D7C?style=for-the-badge&logo=openjdk&logoColor=111613)
-![C](https://img.shields.io/badge/C-F3EEDC?style=for-the-badge&logo=c&logoColor=111613)
+![Kotlin](https://img.shields.io/badge/Kotlin-D98D7C?style=for-the-badge&logo=kotlin&logoColor=111613)
+![Java 17](https://img.shields.io/badge/Java_17-F3EEDC?style=for-the-badge&logo=openjdk&logoColor=111613)
+![Dart](https://img.shields.io/badge/Dart-111613?style=for-the-badge&logo=dart&logoColor=F3EEDC)
+![C](https://img.shields.io/badge/C-789B7F?style=for-the-badge&logo=c&logoColor=F3EEDC)
+![JavaScript](https://img.shields.io/badge/JavaScript-789B7F?style=for-the-badge&logo=javascript&logoColor=F3EEDC)
+![HTML5](https://img.shields.io/badge/HTML5-D98D7C?style=for-the-badge&logo=html5&logoColor=111613)
+![CSS3](https://img.shields.io/badge/CSS3-F3EEDC?style=for-the-badge&logo=css3&logoColor=111613)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111613?style=for-the-badge&logo=bootstrap&logoColor=F3EEDC)
+
+**backend · data · real time**
+
+![Django](https://img.shields.io/badge/Django-789B7F?style=for-the-badge&logo=django&logoColor=F3EEDC)
+![Django REST](https://img.shields.io/badge/Django_REST-D98D7C?style=for-the-badge&logo=django&logoColor=111613)
+![REST APIs](https://img.shields.io/badge/REST_APIs-F3EEDC?style=for-the-badge&logo=fastapi&logoColor=111613)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111613?style=for-the-badge&logo=postgresql&logoColor=F3EEDC)
+![SQLite](https://img.shields.io/badge/SQLite-789B7F?style=for-the-badge&logo=sqlite&logoColor=F3EEDC)
+![Redis](https://img.shields.io/badge/Redis-D98D7C?style=for-the-badge&logo=redis&logoColor=111613)
+![WebSockets](https://img.shields.io/badge/WebSockets-F3EEDC?style=for-the-badge&logo=socketdotio&logoColor=111613)
+![Django Channels](https://img.shields.io/badge/Django_Channels-111613?style=for-the-badge&logo=django&logoColor=F3EEDC)
+
+**mobile · Android**
+
+![Flutter](https://img.shields.io/badge/Flutter-789B7F?style=for-the-badge&logo=flutter&logoColor=F3EEDC)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-D98D7C?style=for-the-badge&logo=jetpackcompose&logoColor=111613)
+![Material 3](https://img.shields.io/badge/Material_3-F3EEDC?style=for-the-badge&logo=materialdesign&logoColor=111613)
+![Android Studio](https://img.shields.io/badge/Android_Studio-111613?style=for-the-badge&logo=androidstudio&logoColor=F3EEDC)
+![Firebase](https://img.shields.io/badge/Firebase-789B7F?style=for-the-badge&logo=firebase&logoColor=F3EEDC)
+![Google Play](https://img.shields.io/badge/Published_on_Google_Play-D98D7C?style=for-the-badge&logo=googleplay&logoColor=111613)
 
 **AI · ML · data**
 
+![OpenAI](https://img.shields.io/badge/OpenAI_API-F3EEDC?style=for-the-badge&logo=openai&logoColor=111613)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-D98D7C?style=for-the-badge&logo=openai&logoColor=111613)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-789B7F?style=for-the-badge&logo=scikitlearn&logoColor=F3EEDC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-D98D7C?style=for-the-badge&logo=tensorflow&logoColor=111613)
-![Pandas](https://img.shields.io/badge/Pandas-111613?style=for-the-badge&logo=pandas&logoColor=F3EEDC)
-![NumPy](https://img.shields.io/badge/NumPy-F3EEDC?style=for-the-badge&logo=numpy&logoColor=111613)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111613?style=for-the-badge&logo=tensorflow&logoColor=F3EEDC)
+![Pandas](https://img.shields.io/badge/Pandas-F3EEDC?style=for-the-badge&logo=pandas&logoColor=111613)
+![NumPy](https://img.shields.io/badge/NumPy-789B7F?style=for-the-badge&logo=numpy&logoColor=F3EEDC)
 
-**tools I reach for**
+**developer tools**
 
-![Git](https://img.shields.io/badge/Git-D98D7C?style=for-the-badge&logo=git&logoColor=111613)
-![GitHub](https://img.shields.io/badge/GitHub-111613?style=for-the-badge&logo=github&logoColor=F3EEDC)
-![Jupyter](https://img.shields.io/badge/Jupyter-F3EEDC?style=for-the-badge&logo=jupyter&logoColor=111613)
-![VS Code](https://img.shields.io/badge/VS_Code-789B7F?style=for-the-badge&logo=visualstudiocode&logoColor=F3EEDC)
+![Git](https://img.shields.io/badge/Git-111613?style=for-the-badge&logo=git&logoColor=F3EEDC)
+![GitHub](https://img.shields.io/badge/GitHub-789B7F?style=for-the-badge&logo=github&logoColor=F3EEDC)
+![Postman](https://img.shields.io/badge/Postman-D98D7C?style=for-the-badge&logo=postman&logoColor=111613)
+![Gradle](https://img.shields.io/badge/Gradle-F3EEDC?style=for-the-badge&logo=gradle&logoColor=111613)
+![Jupyter](https://img.shields.io/badge/Jupyter-789B7F?style=for-the-badge&logo=jupyter&logoColor=F3EEDC)
+![VS Code](https://img.shields.io/badge/VS_Code-D98D7C?style=for-the-badge&logo=visualstudiocode&logoColor=111613)
 
 </div>
+
+<details>
+<summary><b>🧰 peek under the hood</b></summary>
+<br/>
+
+| corner of the toolbox | what lives there |
+|:---|:---|
+| **Android architecture** | ViewModel · StateFlow · Coroutines · Kotlin Serialization |
+| **Networking & real time** | OkHttp · WebSockets · Django Channels · real-time chat |
+| **Integrations** | OpenAI/OpenRouter APIs · Google & LinkedIn OAuth · Razorpay · Google Play Billing |
+| **Mobile media & messaging** | Firebase Cloud Messaging · Coil · Media3 ExoPlayer · Google Sign-In |
+| **Backend building** | Authentication · role-based access · PDF/file processing · API integration |
+| **Testing & release** | JUnit · Espresso · AndroidX Test · ProGuard/R8 · debugging · API testing |
+| **AI experiments** | RAG systems · AI-based pitch-deck analysis |
+| **Shipping** | Android deployment through Google Play Console |
+
+</details>
 
 ---
 
@@ -103,6 +150,6 @@ class NushraKhan:
 
 <sub>thanks for wandering by — mind the bugs on your way out.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=789B7F&amp;height=100&amp;section=footer" width="100%" alt="Footer" />
+<img src="./assets/sheep-meadow.svg" width="100%" alt="Two little sheep grazing among plants" />
 
 </div>

@@ -53,18 +53,17 @@ class NushraKhan:
 ![JavaScript](https://img.shields.io/badge/JavaScript-789B7F?style=for-the-badge&logo=javascript&logoColor=F3EEDC)
 ![HTML5](https://img.shields.io/badge/HTML5-D98D7C?style=for-the-badge&logo=html5&logoColor=111613)
 ![CSS3](https://img.shields.io/badge/CSS3-F3EEDC?style=for-the-badge&logo=css3&logoColor=111613)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111613?style=for-the-badge&logo=bootstrap&logoColor=F3EEDC)
+
 
 **backend · data · real time**
 
 ![Django](https://img.shields.io/badge/Django-789B7F?style=for-the-badge&logo=django&logoColor=F3EEDC)
-![Django REST](https://img.shields.io/badge/Django_REST-D98D7C?style=for-the-badge&logo=django&logoColor=111613)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-F3EEDC?style=for-the-badge&logo=fastapi&logoColor=111613)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111613?style=for-the-badge&logo=postgresql&logoColor=F3EEDC)
 ![SQLite](https://img.shields.io/badge/SQLite-789B7F?style=for-the-badge&logo=sqlite&logoColor=F3EEDC)
 ![Redis](https://img.shields.io/badge/Redis-D98D7C?style=for-the-badge&logo=redis&logoColor=111613)
 ![WebSockets](https://img.shields.io/badge/WebSockets-F3EEDC?style=for-the-badge&logo=socketdotio&logoColor=111613)
-![Django Channels](https://img.shields.io/badge/Django_Channels-111613?style=for-the-badge&logo=django&logoColor=F3EEDC)
+
 
 **mobile · Android**
 
@@ -73,7 +72,7 @@ class NushraKhan:
 ![Material 3](https://img.shields.io/badge/Material_3-F3EEDC?style=for-the-badge&logo=materialdesign&logoColor=111613)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-111613?style=for-the-badge&logo=androidstudio&logoColor=F3EEDC)
 ![Firebase](https://img.shields.io/badge/Firebase-789B7F?style=for-the-badge&logo=firebase&logoColor=F3EEDC)
-![Google Play](https://img.shields.io/badge/Published_on_Google_Play-D98D7C?style=for-the-badge&logo=googleplay&logoColor=111613)
+
 
 **AI · ML · data**
 
